@@ -10,7 +10,16 @@
     "deploy": "gh-pages -d dist --repo https://github.com/DiamondStalker/porfolio.git "
   },
   "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "connect-flash": "^0.1.1",
+    "express": "^4.18.2",
+    "express-handlebars": "^6.0.6",
+    "express-session": "^1.17.3",
     "gh-pages": "^4.0.0",
+    "method-override": "^3.0.0",
+    "mongoose": "^6.6.5",
+    "passport": "^0.6.0",
+    "passport-local": "^1.0.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
